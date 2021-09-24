@@ -1,3 +1,3 @@
 # Hello-world
 Just for practice
-I'am learning how to use github right now
+I'm learning how to use github right now
